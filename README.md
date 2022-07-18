@@ -1,4 +1,4 @@
-![me](https://github.com/SamBarFu/SamBarFu/blob/main/bannerReadme.png)
+<img src="https://github.com/SamBarFu/SamBarFu/blob/main/bannerReadme.png"/>
 
 # Hi, I'm Sam but some people know me as Mohasir.
 <!--
