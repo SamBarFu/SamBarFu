@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'm Sam 👋
+![me](https://github.com/SamBarFu/SamBarFu/blob/main/bannerReadme.png)
 <!--
 **SamBarFu/SamBarFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
