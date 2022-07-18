@@ -1,6 +1,6 @@
 <img src="https://github.com/SamBarFu/SamBarFu/blob/main/bannerReadme.png"/>
 
-# I'm Sam  but some people know me as Mohasir.
+## I'm Sam  but some people know me as Mohasir.
 <small style="font-size: 16px; font-weight: 400;">Web Developer :computer: :nicaragua:</small>
 
 <!--
