@@ -1,7 +1,6 @@
 <img src="https://github.com/SamBarFu/SamBarFu/blob/main/bannerReadme.png"/>
 
-<h1 style="margin: 1rem 0 0 0;">I'm Sam  but some people know me as Mohasir.</h1>
-Web Developer :computer: :ni:
+# I'm Sam  but some people know me as Mohasir. <br> <small style="font-size: 16px; font-weight: 400;">Web Developer :computer: 🇳🇮</small>
 <!--
 **SamBarFu/SamBarFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
