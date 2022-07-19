@@ -18,9 +18,9 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 
 ## My favorite technologies:
 
-<img src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/favoritesTech.png" alt="html">
+<img width="80%" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/favoritesTech.png" alt="html">
 
-<div aling="center">
+<!-- <div aling="center">
   
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/css.png" alt="css">
 &nbsp; 
@@ -36,7 +36,7 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 &nbsp;
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/python.png" alt="python"> 
 
-</div>
+</div> -->
 
 ### Other tech and tools:
 
