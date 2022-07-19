@@ -18,7 +18,7 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 
 ## My favorite technologies:
 
-<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/favoritesTech.png" alt="html">
+<img src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/favoritesTech.png" alt="html">
 
 <div aling="center">
   
