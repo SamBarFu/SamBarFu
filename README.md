@@ -16,7 +16,7 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 
 <table>
 <tr>
-<td align="middle" width="60%">
+<td align="top" width="60%">
 
 ### My favorite technologies:
 
@@ -39,7 +39,7 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 </div>
 
 </td>
-<td align="middle">
+<td align="top">
 
 ### Other tech and tools:
 
