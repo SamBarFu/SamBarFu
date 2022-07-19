@@ -1,16 +1,20 @@
 <img styles="displary: inline-block" src="https://github.com/SamBarFu/SamBarFu/blob/main/bannerRounded.png"/>
 
+<div align="center">
+  
 # I'm Sam :llama:
+  
+<!-- ![](https://komarev.com/ghpvc/?username=SamBarFu&color=79b8ff) -->
+  
+### Web Developer :computer: :nicaragua:
+  
+My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an enthusiastic and purposeful person in the activities that done. I take on new challenges <br> with responsibility and mentality open for new learning. I love what I do and I enjoy it fully.
 
-![](https://komarev.com/ghpvc/?username=SamBarFu&color=79b8ff)
-  
-Web Developer :computer: :nicaragua:
-  
-> My name is Sam but some people know me as Mohasir. <br> I'm an enthusiastic and purposeful person in the activities that done. I take on new challenges with responsibility and mentality open for new learning. I love what I do and I enjoy it fully.
+</div>
 
 ---
 
-### My favorite technologies:
+#### My favorite technologies:
 
 <div>
   
