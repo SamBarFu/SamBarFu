@@ -20,9 +20,9 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 
 <div aling="center">
   
-<img width="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/css.png" alt="css"> 
-<img width="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/html.png" alt="html"> 
-<img width="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/javascript.png" alt="javascript"> 
+<img width="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/css.png" alt="css"> 
+<img width="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/html.svg" alt="html"> 
+<img width="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/javascript.png" alt="javascript"> 
 
 </div>
 
@@ -30,7 +30,7 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 
 <div aling="center">
   
-<img width="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/graphql.png" alt="graphql"> 
+<img width="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/graphql.png" alt="graphql"> 
 
 </div>
 </div>
@@ -63,15 +63,15 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 <div align="center">
 <div>
 
-<a href="https://mohasir.com"><img align="center" alt="Mohasir Web" height="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/web.png" /></a>
+<a href="https://mohasir.com"><img align="center" alt="Mohasir Web" height=5pxpx" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/web.png" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/samuel-barberena/"><img align="center" alt="SamBarFu | LinkedIn" height="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/linkedin.png" /></a>
+<a href="https://www.linkedin.com/in/samuel-barberena/"><img align="center" alt="SamBarFu | LinkedIn" height=5pxpx" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/linkedin.png" /></a>
 &nbsp;
-<a href="mailto:sambarberena@gmail.com"><img align="center" alt="SamBarFu | Email" height="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/mail.png" /></a>
+<a href="mailto:sambarberena@gmail.com"><img align="center" alt="SamBarFu | Email" height=5pxpx" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/mail.png" /></a>
 &nbsp;
-<a href="https://www.instagram.com/mohasirdev/"><img align="center" alt="SamBarFu | Instagram" height="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/instagram.png" /></a>
+<a href="https://www.instagram.com/mohasirdev/"><img align="center" alt="SamBarFu | Instagram" height=5pxpx" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/instagram.png" /></a>
 &nbsp;
-<a href="https://twitter.com/SamBarFu"><img align="center" alt="SamBarFu | Twitter" height="30px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/twitter.png" /></a>
+<a href="https://twitter.com/SamBarFu"><img align="center" alt="SamBarFu | Twitter" height=5pxpx" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/twitter.png" /></a>
   
 </div>
 
