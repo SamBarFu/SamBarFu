@@ -25,14 +25,30 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/html.svg" alt="html">
 &nbsp;
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/javascript.png" alt="javascript"> 
+&nbsp;
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/react.png" alt="reactjs"> 
+&nbsp;
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/vue.png" alt="vuejs"> 
+&nbsp;
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/flutter.png" alt="flutter"> 
+&nbsp;
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/python.png" alt="python"> 
 
 </div>
 
 ### Other tech and tools:
 
 <div aling="center">
-  
+
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/node.png" alt="node">
+&nbsp;
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/django.png" alt="django">
+&nbsp;
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/graphql.png" alt="graphql"> 
+&nbsp;
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/laravel.png" alt="laravel">
+&nbsp;
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/wordpress.png" alt="wordpress">
 
 </div>
 </div>
