@@ -6,7 +6,7 @@
   
 <!-- ![](https://komarev.com/ghpvc/?username=SamBarFu&color=79b8ff) -->
   
-### Web Developer :computer: :nicaragua:
+#### Web Developer :computer: :nicaragua:
   
 My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an enthusiastic and purposeful person in the activities that done. I take on new challenges <br> with responsibility and mentality open for new learning. I love what I do and I enjoy it fully.
 
