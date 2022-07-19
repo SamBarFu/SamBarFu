@@ -16,9 +16,14 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 
 <div align="center">
 
-## My favorite technologies:
+## My favorite tech
 
-<img width="80%" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/favoritesTech.png" alt="html">
+<img width="80%" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/favoritesTech.png" alt="favorites-tech">
+
+## Other tech
+
+
+<img width="80%" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/otherTech.png" alt="other-tech">
 
 <!-- <div aling="center">
   
@@ -36,7 +41,7 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 &nbsp;
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/python.png" alt="python"> 
 
-</div> -->
+</div>
 
 ### Other tech and tools:
 
@@ -52,7 +57,7 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 &nbsp;
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/wordpress.png" alt="wordpress">
 
-</div>
+</div> -->
 </div>
 
 ---
