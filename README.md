@@ -1,5 +1,5 @@
-<div style="background-color: #0d1117; padding: 1rem; border-radius: 20px">
-<div>
+<div style="background-color: rgba(255, 255, 255, .2); border-radius: 20px; padding: 1rem 2rem">
+
 <img styles="border-radius: 25px" src="https://github.com/SamBarFu/SamBarFu/blob/main/bannerReadme.png"/>
 
 # I'm Sam  but some people know me as Mohasir.
@@ -26,5 +26,4 @@
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 
-</div>
 </div>
