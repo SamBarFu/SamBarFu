@@ -30,7 +30,7 @@ My name is Sam but some people know me as <strong>Mohasir</strong>. <br> I'm an 
 &nbsp;
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/vue.png" alt="vuejs"> 
 &nbsp;
-<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/flutter.png" alt="flutter"> 
+<img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/flutter.svg" alt="flutter"> 
 &nbsp;
 <img height="35px" src="https://github.com/SamBarFu/SamBarFu/blob/main/icons/python.png" alt="python"> 
 
